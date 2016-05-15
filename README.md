@@ -69,6 +69,7 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/docstring-coverage-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/docstring-coverage-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/docstring-coverage-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/docstring-coverage-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/docstring-coverage-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/docstring-coverage-feedstock/branch/master)
